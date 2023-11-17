@@ -7,7 +7,8 @@ gestionar los alumnos que apoyarán en la semana de ingeniería 2023 y cómo org
 <p float="left">
   <img src="inicio1.jpg" width="180" />
   <img src="registro.jpg" width="180" />
-  <img src="delegado.jpg" width="180" />
+  <img src="homedg.jpg" width="180" />
+  <img src="eventosdg.jpg" width="180" />
   <img src="usuarios.jpg" width="180" />
   <img src="estadisticas.jpg" width="180" />
   <img src="alumno.jpg" width="180" />
